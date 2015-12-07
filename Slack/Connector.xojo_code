@@ -175,7 +175,7 @@ Inherits Xojo.Net.HTTPSocket
 		    channels.Append(ch)
 		  Next
 		  
-		  ChannelListResponse(channels)
+		  ChannelsListResponse(channels)
 		  
 		End Sub
 	#tag EndMethod
